@@ -1,5 +1,3 @@
-# git_commands
-
 Commit to main branch
 ==========================
 1. git add .
