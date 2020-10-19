@@ -3,7 +3,7 @@
     2. git commit -m <commit_message>
     3. git push
 
-### Making an new branch
+### Make a new branch
     1. clone the repo
     2. change directory to the cloned repo
     3. git branch <branch_name>
