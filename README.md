@@ -1,4 +1,4 @@
-Commit to main branch
+## Commit to main branch
 ==========================
     1. git add .
     2. git commit -m <commit_message>
