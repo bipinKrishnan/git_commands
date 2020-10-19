@@ -1,4 +1,4 @@
-## Commit to main branch
+### Commit to main branch
     1. git add .
     2. git commit -m <commit_message>
     3. git push
@@ -11,7 +11,7 @@
 ## Switching branches
     1. git checkout <branch_name>
 
-## Check the branch name you are currently working
+## Check the branch name you are currently working on
     1. git branch
 
 ## Push changes to a branch other than main branch
