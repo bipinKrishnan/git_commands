@@ -1,3 +1,5 @@
+Complete guide is [here](https://www.dataschool.io/how-to-contribute-on-github/)
+
 ### Commit to main branch
     1. git add .
     2. git commit -m <commit_message>
