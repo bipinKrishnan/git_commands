@@ -18,3 +18,6 @@
     1. git add .
     2. git commit -m <commit_message>
     3. git push origin <branch_name>
+    
+### Remove a branch remotely
+    1. git push origin --delete <branch_name>
