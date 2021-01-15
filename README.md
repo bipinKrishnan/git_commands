@@ -36,8 +36,8 @@ Complete guide is [here](https://www.dataschool.io/how-to-contribute-on-github/)
     5. git pull upstream master
     (pulls all the changes from master branch of upstream repo)
     
-    6. git checkout <your_branch>
-    7. git branch <your_branch>
+    6. git branch <your_branch>
+    7. git checkout <your_branch>
     8. Make the required changes then add and commit
     9. git push origin <your_branch>
     10. Do a pull request/merge request
