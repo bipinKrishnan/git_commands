@@ -23,3 +23,21 @@ Complete guide is [here](https://www.dataschool.io/how-to-contribute-on-github/)
     
 ### Remove a branch remotely
     1. git push origin --delete <branch_name>
+    
+### Contribute to opensource
+    1. Fork the repo
+    2. git clone <url_forked_repo>
+    3. git remote add origin <url_forked_repo>
+    (This sets the origin as forked repo)
+    
+    4. git remote add upstream <url_original_repo>
+    (This sets the upstream repo as the original repo)
+    
+    5. git pull upstream master
+    (pulls all the changes from master branch of upstream repo)
+    
+    6. git checkout <your_branch>
+    7. git branch <your_branch>
+    8. Make the required changes then add and commit
+    9. git push origin <your_branch>
+    10. Do a pull request/merge request
